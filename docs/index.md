@@ -35,4 +35,4 @@
 
 [ほげ](./fuga/hoge.md)
 
-![ほげ](./hoge.png)
+![ほげ](https://2.bp.blogspot.com/-BAjO8WiNh2E/XAnvWQtKBmI/AAAAAAABQnc/lA70z7FpyWwbCkRyWVADF934frSTdgOSACLcBGAs/s800/computer_dengen_unit.png)
